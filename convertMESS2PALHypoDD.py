@@ -1,3 +1,10 @@
+'''
+Written by Yuan Yao.
+The functions:
+1.convertMESS2PAL input pha
+2.By changing file_path
+
+'''
 file_path = 'ZSYtmp201701.pha' #要修改的文件路径
 import os
 from sys import argv
