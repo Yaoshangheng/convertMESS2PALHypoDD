@@ -3,6 +3,7 @@ Written by Yuan Yao.
 The functions:
 1.convertMESS2PAL input pha
 2.By changing file_path
+3.add event id
 
 '''
 file_path = 'ZSYtmp201701.pha' #要修改的文件路径
